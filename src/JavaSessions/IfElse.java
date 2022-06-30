@@ -4,7 +4,7 @@ public class IfElse {
 
 	public static void main(String[] args) {
 
-		// > < >= <= == != conditional operators
+		// > < >= <= == != conditional operators test
 		
 		int a = 30;
 		int b = 20;
